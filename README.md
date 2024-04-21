@@ -28,26 +28,6 @@ In summary, the proposed solution addresses the deficiency in existing methods b
 
 
 
-OBJECTIVE 
-
-•	Background: Dental caries is a growing concern affecting a large number of people. Existing methods to protect people from dental caries are deficient.
-
-•	Need for a Solution: A Decision Support System (DSS) is crucial to provide accurate insights into dental caries. Machine Learning (ML) has been increasingly used to enhance DSS systems.
-
-•	Previous Work: ML, especially Support Vector Machines (SVM), Random Forest (RF), and Artificial Neural Network (ANN), has been applied to predict and detect dental caries. SVM was used for classifying dental root caries. RF and ANN demonstrated good results in detecting dental caries.
-
-•	Novel Approach: The proposed solution introduces a novel approach for dental caries prediction. A multi-modal deep neural network with two pathways is utilized. The model has the ability to learn patterns from heterogeneous features of different data sources.
-
-•	Hybrid Model : A Hybrid model is employed, consisting of Convolutional Neural Networks (CNN) and Artificial Neural Networks (ANN).This model leverages the strengths of both CNN and ANN to learn from diverse data sources.
-
-•	Information Utilization:  The multi-modal approach harnesses the capability of providing more information by using different data sources .The model aims to make precise and accurate predictions of dental caries within a given population.
-
-
-In summary, the proposed solution addresses the deficiency in existing methods by introducing a novel multi-modal deep neural network, leveraging the power of Hybrid models for dental caries prediction, and learning from diverse data sources to enhance accuracy.
-
-
-
-
 
 
  
