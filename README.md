@@ -1,4 +1,4 @@
-This projrect is based on Machine learning (ML) and Artificial intelligence (AI) 
+This project is based on Machine learning (ML) and Artificial intelligence (AI) 
 
                       Introduction 
  
