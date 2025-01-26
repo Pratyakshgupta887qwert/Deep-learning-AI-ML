@@ -1,6 +1,6 @@
 This project is based on Machine learning (ML) and Artificial intelligence (AI) 
 
-                      Introduction 
+								Introduction 
  
 Dental caries is one of the most highly chronic oral disease affecting populations of various ages worldwide and was reported in 2010 as the 10th most prevalent Condition. According to the World Health Organization (WHO), approximately around 1.8 billion caries cases are recorded every year.  The current works to tackle the dental caries issue are either restrained or insufficient. Saliva, hereditary, bacteria and diet are some factors leading to dental caries Two methods are used to diagnose dental caries: radiographic procedures, consisting of detecting dental caries using digital X-ray images and clinical method, which is classified as a visual examination of oral condition to detect caries. These works have one thing in common, the usage of only one type of data (either image data or clinically collected data) for dental caries  detection. 
 Meanwhile, combining several types of oral healthcare data could generate a more credible diagnosis, therein removing the uncertainty of the possible sources the disease. This uncertainty can cause the ratio of dental caries population to increase drastically. Therefore, although dental radiography (including panoramic, periapical, and bitewing views), and explorer (or dental probe), which are widely used and regarded to be highly reliable diagnostic tools for the detection of dental caries, much of the screening and final diagnosis tends to rely on empirical evidence. 
@@ -31,7 +31,7 @@ In summary, the proposed solution addresses the deficiency in existing methods b
 
 
  
-                                                  Chapter - 2 
+								Chapter - 2 
 Description and Work done 
  
 Data Processing 
@@ -41,7 +41,7 @@ As mentioned in the data collection stage, the proposed algorithm uses two types
  
  
 
-                                                                                    Flow chat 
+								Flow chat 
 
 
 
@@ -67,7 +67,7 @@ Non caries images - 84
 
 
 
-                                         Data set images 
+								Data set images 
 
  
  
@@ -80,7 +80,10 @@ We have come to our project’s conclusion and we came to know that numerous exp
  
 During the experimentation stage, there were some limitations that had to be overcome, such as the lack of a large collection of X-ray dental images, by using dental images and data augmentation as described in the data preparation section. For our upcoming work, the labeling of X-ray images dataset is currently being performed. We express our gratitude to everyone who has contributed to the success of this project, whether through collaboration, guidance, or support. This journey has been enlightening, and we look forward to the continued evolution of project  in the future.
  
-                                          Result
+								
+
+
+								Result
 
 The final result of our model is having 211 caries and 84 non carries in confusion matrix and  the graph of our model is show below in this project file , therefore the sensitivity of our project is 0.7857  and the specificity is 0.9524 and accuracy  is 0.9048  .
 The other results like  precision , recall value , f1 score  are as follow :
